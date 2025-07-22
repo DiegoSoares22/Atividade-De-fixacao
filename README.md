@@ -25,6 +25,4 @@ Criar um programa que:
   - `Sum()`
 - ✅ Tratamento de exceções com `try/catch`
 
-Diego Soares
-Estudante de C# POO
-https://www.linkedin.com/in/diego-soaresdev/
+Essa atividade foi resolvida por Diego Soares como parte dos estudos de C# com o professor Nelio Alves.
